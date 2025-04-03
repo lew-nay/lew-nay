@@ -1,7 +1,7 @@
 ---
 title: Robotic Systems Design Project
 publishDate: 2020-03-02 00:00:00
-img: ../../lew-nay/assets/RoverWithJustLidar.jpg
+img: ../../../lew-nay/assets/RoverWithJustLidar.jpg
 img_alt: Image of the team's LeoRover
 description: |
   Making a fully autonomous rover!

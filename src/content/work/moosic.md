@@ -1,7 +1,7 @@
 ---
 title: Moosic
 publishDate: 2019-10-02 00:00:00
-img: ../../lew-nay/assets/music-notes.jpg
+img: ../../../lew-nay/assets/music-notes.jpg
 img_alt: Music notes.
 description: |
   My own personal DJ.
