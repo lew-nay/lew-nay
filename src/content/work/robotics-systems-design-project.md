@@ -37,3 +37,7 @@ The full codebase of the project, including both my own and my three teammate's 
 > What did I learn?
 
 In this project, I developed my ability across the ROS2 framework, developed my ability in Python and systems integration, my modelling ability in Fusion as I designed the mounting apparatus for all parts of the completed robot. I was also responsible for the report writing in my team allowing me to develop my ability in LaTeX.
+
+<video width="360" height="640" controls>
+<source src="../../../lew-nay/assets/autonomous_driving.mp4" type="video/mp4">
+</video>
