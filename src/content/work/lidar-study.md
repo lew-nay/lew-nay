@@ -15,5 +15,5 @@ tags:
 Alongside the Robotic Systems Design Project which uses the Lidar shown in this video, my team conducted a study into the suitability for a single lidar to be used for obstacle detection in the scenario that we are using it, on a mobile rover in an unknown environment. I then created the video below to present our findings.
 
 <video width="640" height="360" controls>
-<source src="../../../lew-nay/assets/RoboticSystemsCourse2_SUBTITLED.mov" type="video/mov">
+<source src="../../../lew-nay/assets/RS_Coursework2.mp4" type="video/mp4">
 </video>
